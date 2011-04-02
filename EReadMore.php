@@ -30,6 +30,12 @@
  *      </div>
  *      <?php $this->endWidget(); ?>
  * ~~~
+ * ####Advanced use
+ * Check the EReadMore code options to see what you can set.
+ *
+ * ###Resources
+ * - [Github repo](http://www.github.com/dmtrs/EReadMore)
+ * - [Extension site](http://www.yiiframework.com/extension/ereadmore/)
  *
  * @version 1.0
  * @author Dimitrios Mengidis <tydeas.dr@gmail.com>
